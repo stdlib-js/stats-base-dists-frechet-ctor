@@ -1,0 +1,46 @@
+{
+  "name": "@stdlib/stats-base-dists-frechet-ctor",
+  "version": "0.0.0",
+  "description": "Fréchet distribution constructor.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-frechet-ctor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "object",
+    "class",
+    "constructor",
+    "ctor",
+    "probability",
+    "prob",
+    "frechet",
+    "weibull",
+    "inverse",
+    "extreme",
+    "value",
+    "cdf",
+    "pdf",
+    "quantile",
+    "properties",
+    "props",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
