@@ -41,7 +41,7 @@
     "@stdlib/assert-is-positive-number": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/stats-base-dists-frechet-cdf": "^0.1.0",
-    "@stdlib/stats-base-dists-frechet-entropy": "^0.1.0",
+    "@stdlib/stats-base-dists-frechet-entropy": "^0.1.1",
     "@stdlib/stats-base-dists-frechet-kurtosis": "^0.1.0",
     "@stdlib/stats-base-dists-frechet-logcdf": "^0.1.0",
     "@stdlib/stats-base-dists-frechet-logpdf": "^0.1.0",
