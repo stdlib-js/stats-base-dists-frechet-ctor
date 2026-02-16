@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-15)
+## Unreleased (2026-02-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f884c94`](https://github.com/stdlib-js/stdlib/commit/f884c94958214a509cf48747280543d3b5ec396f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`7b1ec1e`](https://github.com/stdlib-js/stdlib/commit/7b1ec1ee410f8c2a2e49d70bcf878e57ddb966d9) - **bench:** refactor to use string interpolation in `stats/base/dists/frechet` [(#10122)](https://github.com/stdlib-js/stdlib/pull/10122) _(by Shubham)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Shubham
 
 </section>
