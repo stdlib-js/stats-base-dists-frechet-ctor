@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-04)
+## Unreleased (2026-03-08)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`800e5c6`](https://github.com/stdlib-js/stdlib/commit/800e5c63152409e524ba972c331f3656103adebd) - **bench:** minor clean-up _(by Philipp Burckhardt)_
 -   [`ef7e6f0`](https://github.com/stdlib-js/stdlib/commit/ef7e6f021e5d0d32022caf3cfdeaad729c4ac7eb) - **bench:** update random value generation for `stats/base/dists/frechet/ctor` [(#10364)](https://github.com/stdlib-js/stdlib/pull/10364) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`f884c94`](https://github.com/stdlib-js/stdlib/commit/f884c94958214a509cf48747280543d3b5ec396f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`7b1ec1e`](https://github.com/stdlib-js/stdlib/commit/7b1ec1ee410f8c2a2e49d70bcf878e57ddb966d9) - **bench:** refactor to use string interpolation in `stats/base/dists/frechet` [(#10122)](https://github.com/stdlib-js/stdlib/pull/10122) _(by Shubham)_
